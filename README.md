@@ -8,10 +8,10 @@
 <h4 align="left">I want learn more : </h4>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=javascript" height="35" alt="javascript logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="35" alt="tailwindcss logo"  />
   <img width="5" />
 </div>
