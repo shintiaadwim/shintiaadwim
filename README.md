@@ -8,6 +8,10 @@
 <h4 align="left">I want learn more : </h4>
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
